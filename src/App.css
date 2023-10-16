@@ -1,0 +1,5 @@
+.bg-dots{
+    background-color: black;
+    background-image: radial-gradient(white 1px, transparent 1px);
+    background-size: 100px 100px;
+}
